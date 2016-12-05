@@ -31,7 +31,7 @@
         "symfony/process": "2.1",
         "phpspec/prophecy-phpunit": "~1.0",
         "phpunit/phpunit": "~4.0.7",
-        "behat/symfony2-extension": "2.0.0",
+        "innometrics/symfony2-extension": "2.0.0",
         "behat/web-api-extension": "dev-master"
     },
     
@@ -41,7 +41,7 @@
     }],    
 
     "suggest": {
-        "innometrics/symfony2-extension":  "for integration with Symfony2 web framework",
+        "behat/symfony2-extension":  "for integration with Symfony2 web framework",
         "behat/yii-extension":       "for integration with Yii web framework",
         "behat/mink-extension":      "for integration with Mink testing framework"
     },
