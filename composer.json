@@ -34,6 +34,11 @@
         "behat/symfony2-extension": "2.0.0",
         "behat/web-api-extension": "dev-master"
     },
+    
+    "repositories": [{
+        "type": "git",
+        "url": "git@github.com:Innometrics/Symfony2Extension.git"
+    }],    
 
     "suggest": {
         "behat/symfony2-extension":  "for integration with Symfony2 web framework",
