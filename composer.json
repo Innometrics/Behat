@@ -19,8 +19,8 @@
         "behat/gherkin":                 "~4.1",
         "behat/transliterator":          "~1.0",
         "phpspec/prophecy-phpunit": "~1.0",
-        "innometrics/symfony2-extension": "2.0.0",
-        "innometrics/web-api-extension": "dev-master"
+        "innometrics/symfony2-extension": "*",
+        "innometrics/web-api-extension": "*"
     },
     
     "repositories": [{
