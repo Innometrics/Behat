@@ -29,6 +29,9 @@
     "repositories": [{
         "type": "git",
         "url": "git@github.com:Innometrics/Symfony2Extension.git"
+    },{
+        "type": "git",
+        "url": "git@github.com:Innometrics/WebApiExtension.git"
     }],    
 
     "suggest": {
